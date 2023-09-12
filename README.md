@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rizwan Syed and I'm a Offensive Security Enthusiast, from Mumbai India</h2>
+<h2 align="left">Hello! 👋 My name is Rizwan Syed, and I'm an Offensive Security Enthusiast from India."</h2>
 
 ###
 
